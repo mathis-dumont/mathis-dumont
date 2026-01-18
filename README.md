@@ -12,4 +12,6 @@ I am currently pursuing a Master in Data Science at **ENSAE Paris**, following a
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/mathis-dumont/) | [Email](mailto:contact.mathisdumont@gmail.com)
+**Contact**
+[LinkedIn](https://www.linkedin.com/in/mathis-dumont/)
+Email: contact.mathisdumont@gmail.com
