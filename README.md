@@ -2,13 +2,13 @@
 
 ### Portfolio
 
-**[View my full portfolio at mathis-dumont.github.io](https://mathis-dumont.github.io/)**
+**[View my portfolio at mathis-dumont.github.io](https://mathis-dumont.github.io/)**
 
 ---
 
 ### Background
 
-I am currently pursuing a Master in Data Science at **ENSAE Paris**, following a Master of Engineering at **Arts & Métiers**.
+Currently a Data Science Master's student at ENSAE Paris and an Engineering graduate from Arts & Métiers ParisTech.
 
 ---
 
@@ -16,5 +16,4 @@ I am currently pursuing a Master in Data Science at **ENSAE Paris**, following a
 
 - [LinkedIn](https://www.linkedin.com/in/mathis-dumont/)
 
-- Email: 
-contact[point]mathisdumont@gmail.com
+- contact[dot]mathisdumont@gmail.com
