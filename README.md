@@ -8,7 +8,7 @@ Welcome ! I'm an AI Engineer with a background in Mechanical Engineering (Arts &
 
 ### About Me
 
-Coming from Arts & Métiers and ENSAE Paris, I look at AI through two lenses: mathematical rigor and industrial reality. I don't just build models; I make sure they work in production environments. My work ranges from classic ML for predictive maintenance to advanced generative architectures and agentic workflows
+Coming from Arts & Métiers and ENSAE Paris, I look at AI through two lenses: mathematical rigor and industrial reality. I make sure the modeles work in production environments and bring value. My work ranges from classic ML for predictive maintenance to advanced generative architectures and agentic workflows
 
 ### Technical Expertise
 
@@ -21,7 +21,7 @@ Coming from Arts & Métiers and ENSAE Paris, I look at AI through two lenses: ma
 
 *   **[Horse Racing Prediction](https://github.com/mathis-dumont/horse-racing-prediction):** (Core ML) Production-grade XGBoost pipeline with automated daily ETL and market analysis.
 *   **[Multi-Agent Documentation](https://github.com/mathis-dumont/documentation_generator):** (GenAI) Automated codebase analysis using Mistral-powered reasoning agents.
-*   **[Fraud Detection Research]:** Comparison of Supervised vs. Unsupervised (Autoencoders) methods for highly imbalanced data. [[Read PDF Report](https://mathis-dumont.github.io/documents/fraud-detection-report.pdf)]
+*   **[Fraud Detection Research](https://mathis-dumont.github.io/documents/fraud-detection-report.pdf):** Comparison of Supervised vs. Unsupervised (Autoencoders) methods for highly imbalanced data.
 
 
 ---
