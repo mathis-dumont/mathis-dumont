@@ -8,7 +8,7 @@ Welcome ! I'm an AI Engineer with a background in Mechanical Engineering (Arts &
 
 ### About Me
 
-Coming from Arts & Métiers and ENSAE Paris, I look at AI through two lenses: mathematical rigor and industrial reality. I make sure the modeles work in production environments and bring value. My work ranges from classic ML for predictive maintenance to advanced generative architectures and agentic workflows
+Coming from Arts & Métiers and ENSAE Paris, I look at AI through two lenses: mathematical rigor and industrial reality. I make sure the models work in production environments and bring value. My work ranges from classic ML for predictive maintenance to advanced generative architectures and agentic workflows
 
 ### Technical Expertise
 
