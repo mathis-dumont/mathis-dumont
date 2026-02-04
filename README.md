@@ -1,27 +1,29 @@
 # Mathis Dumont
 
-I am an engineer passionate about building AI systems that work in the real world. My background combines the rigor of mathematical foundations with practical industrial implementation challenges.
+Welcome ! I'm an AI Engineer with a background in Mechanical Engineering (Arts & Métiers) and Data Science (ENSAE Paris). I build end-to-end intelligent systems, from predictive ML models to generative AI architectures.
 
-[**View Full Portfolio & Projects**](https://mathis-dumont.github.io/) | [**LinkedIn**](https://www.linkedin.com/in/mathis-dumont/)
+[**Full Portfolio & Projects**](https://mathis-dumont.github.io/) | [**LinkedIn**](https://www.linkedin.com/in/mathis-dumont/)
 
 ---
 
 ### About Me
 
-After my engineering degree in Arts et Métiers ParisTech, I'm pursuing a Master of Data Science at ENSAE Paris. My focus is on building AI systems that can be deployed in real-world settings, working with agentic frameworks, retrieval-augmented generation (RAG) architectures, and theoretical advances translated into production-ready solutions.
+Coming from Arts & Métiers and ENSAE Paris, I look at AI through two lenses: mathematical rigor and industrial reality. I don't just build models; I make sure they work in production environments. My work ranges from classic ML for predictive maintenance to advanced generative architectures and agentic workflows
 
-### Technical Highlights
+### Technical Expertise
 
-*   **AI & Research:** Multi-agent systems (ReAct), LLM fine-tuning (LoRA/PEFT), Multimodal RAG, and Autoencoders.
-*   **Engineering & Ops:** Full-stack ML pipelines (FastAPI, Docker, GitHub Actions), Industrial modeling at ArcelorMittal, and ETL orchestration.
-*   **Leadership:** Former Head of Sales at Arts & Métiers Junior Enterprise (Best JE in France 2024, managed €250k turnover).
+*   **Machine Learning & DL:** Gradient Boosting (XGBoost/LightGBM), Anomaly Detection (Autoencoders), Time Series, and Cost-Sensitive Learning.
+*   **Generative AI:** Multi-agent systems (ReAct), LLM fine-tuning (LoRA), Multimodal RAG, and Prompt Engineering.
+*   **Engineering & Ops:** Full-stack ML pipelines, FastAPI, Docker, GitHub Actions, and ETL orchestration.
+*   **Leadership:** Former Head of Sales at Arts & Métiers Junior Enterprise (Managed €250k turnover).
 
 ### Featured Projects
 
-*   **Multi-Agent Documentation:** Advanced system leveraging Mistral reasoning for automated code analysis.
-*   **LLM Benchmarking:** Comparative study on fine-tuning vs prompting for hallucination reduction.
-*   **Horse Racing Platform:** Production-grade ML platform with microservices architecture and automated ETL.
+*   **[Horse Racing Prediction](https://github.com/mathis-dumont/horse-racing-prediction):** (Core ML) Production-grade XGBoost pipeline with automated daily ETL and market analysis.
+*   **[Multi-Agent Documentation](https://github.com/mathis-dumont/documentation_generator):** (GenAI) Automated codebase analysis using Mistral-powered reasoning agents.
+*   **[Fraud Detection Research]:** Comparison of Supervised vs. Unsupervised (Autoencoders) methods for highly imbalanced data. [[Read PDF Report](https://mathis-dumont.github.io/documents/fraud-detection-report.pdf)]
+
 
 ---
 
-**Mail:** contact[dot]mathisdumont@gmail.com
+**Contact:** [contact.mathisdumont@gmail.com](mailto:contact.mathisdumont@gmail.com)
