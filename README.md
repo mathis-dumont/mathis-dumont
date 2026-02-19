@@ -1,6 +1,6 @@
 # Mathis Dumont
 
-Welcome ! I'm an AI Engineer with a background in Mechanical Engineering (Arts & Métiers) and Data Science (ENSAE Paris). I build end-to-end intelligent systems, from predictive ML models to generative AI architectures.
+I am an AI Engineer with a dual background in Mechanical Engineering (Arts & Métiers) and Data Science (ENSAE Paris). I focus on building end-to-end systems, moving from predictive ML models to agentic AI workflows.
 
 [**Full Portfolio & Projects**](https://mathis-dumont.github.io/) | [**LinkedIn**](https://www.linkedin.com/in/mathis-dumont/)
 
@@ -8,21 +8,21 @@ Welcome ! I'm an AI Engineer with a background in Mechanical Engineering (Arts &
 
 ### About Me
 
-Coming from Arts & Métiers and ENSAE Paris, I look at AI through two lenses: mathematical rigor and industrial reality. I make sure the models work in production environments and bring value. My work ranges from classic ML for predictive maintenance to advanced generative architectures and agentic workflows
+I approach AI with a focus on production reliability. My goal is to build models that function outside of notebooks and solve actual industrial problems. My work ranges from classic ML for predictive maintenance to designing autonomous agent architectures.
 
-### Technical Expertise
+Previously, I managed client projects as Head of Sales at a Junior Enterprise. This taught me how to align engineering constraints with business requirements.
 
-*   **Machine Learning & DL:** Gradient Boosting (XGBoost/LightGBM), Anomaly Detection (Autoencoders), Time Series, and Cost-Sensitive Learning.
-*   **Generative AI:** Multi-agent systems (ReAct), LLM fine-tuning (LoRA), Multimodal RAG, and Prompt Engineering.
-*   **Engineering & Ops:** Full-stack ML pipelines, FastAPI, Docker, GitHub Actions, and ETL orchestration.
-*   **Leadership:** Former Head of Sales at Arts & Métiers Junior Enterprise (Managed €250k turnover).
+### Technical Stack
+
+*   **Machine Learning:** Gradient Boosting (XGBoost/LightGBM), Anomaly Detection (Autoencoders), Time Series, Cost-Sensitive Learning.
+*   **GenAI & LLMs:** Multi-agent systems (ReAct), Fine-tuning (LoRA), Multimodal RAG, Prompt Engineering.
+*   **Engineering & Ops:** Full-stack ML pipelines, FastAPI, Docker, GitHub Actions, ETL orchestration.
 
 ### Featured Projects
 
-*   **[Horse Racing Prediction](https://github.com/mathis-dumont/horse-racing-prediction):** (Core ML) Production-grade XGBoost pipeline with automated daily ETL and market analysis.
-*   **[Multi-Agent Documentation](https://github.com/mathis-dumont/documentation_generator):** (GenAI) Automated codebase analysis using Mistral-powered reasoning agents.
-*   **[Fraud Detection Research](https://mathis-dumont.github.io/documents/fraud-detection-report.pdf):** Comparison of Supervised vs. Unsupervised (Autoencoders) methods for highly imbalanced data.
-
+*   **[Multi-Agent Documentation](https://github.com/mathis-dumont/documentation_generator):** (GenAI) An automated system that uses Mistral-powered agents and the ReAct framework to reverse-engineer and document codebases.
+*   **[Horse Racing Prediction](https://github.com/mathis-dumont/horse-racing-prediction):** (Core ML) A production-grade XGBoost pipeline with automated daily ETL, market analysis, and a betting strategy algorithm.
+*   **[Fraud Detection Research](https://mathis-dumont.github.io/documents/fraud-detection-report.pdf):** (Research) A technical comparison of Supervised vs. Unsupervised (Autoencoders) methods for detecting fraud in highly imbalanced datasets.
 
 ---
 
