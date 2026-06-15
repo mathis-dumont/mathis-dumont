@@ -1,6 +1,6 @@
 # Mathis Dumont
 
-I am an AI Engineer with a dual background in Mechanical Engineering (Arts & Métiers) and Data Science (ENSAE Paris). I focus on building end-to-end systems, moving from predictive ML models to agentic AI workflows.
+AI Engineer with a dual background in Mechanical Engineering (Arts & Métiers) and Data Science (ENSAE Paris). My work runs from predictive ML models to agentic AI workflows.
 
 [**Full Portfolio & Projects**](https://mathis-dumont.github.io/) | [**LinkedIn**](https://www.linkedin.com/in/mathis-dumont/)
 
@@ -8,9 +8,9 @@ I am an AI Engineer with a dual background in Mechanical Engineering (Arts & Mé
 
 ### About Me
 
-I approach AI with a focus on production reliability. My goal is to build models that function outside of notebooks and solve actual industrial problems. My work ranges from classic ML for predictive maintenance to designing autonomous agent architectures.
+Right now I'm a Data Scientist intern at Mirakl, aligning an open-weights LLM with DPO to automate catalog onboarding. More broadly, I care about the part that comes after the proof of concept: getting models to work outside a notebook, on real industrial problems. That work spans classic ML for predictive maintenance through to autonomous agent architectures.
 
-Previously, I managed client projects as Head of Sales at a Junior Enterprise. This taught me how to align engineering constraints with business requirements.
+Before data science I was Head of Sales at a Junior Enterprise, running client projects. That's where I got used to sitting between engineering constraints and what a business needs.
 
 ### Technical Stack
 
@@ -20,9 +20,9 @@ Previously, I managed client projects as Head of Sales at a Junior Enterprise. T
 
 ### Featured Projects
 
-*   **[Multi-Agent Documentation](https://github.com/mathis-dumont/documentation_generator):** (GenAI) An automated system that uses Mistral-powered agents and the ReAct framework to reverse-engineer and document codebases.
-*   **[Horse Racing Prediction](https://github.com/mathis-dumont/horse-racing-prediction):** (Core ML) A production-grade XGBoost pipeline with automated daily ETL, market analysis, and a betting strategy algorithm.
-*   **[Fraud Detection Research](https://mathis-dumont.github.io/documents/fraud-detection-report.pdf):** (Research) A technical comparison of Supervised vs. Unsupervised (Autoencoders) methods for detecting fraud in highly imbalanced datasets.
+*   **[Multi-Agent Documentation](https://github.com/mathis-dumont/documentation_generator):** (GenAI) Mistral-powered ReAct agents that reverse-engineer and document legacy codebases.
+*   **[Horse Racing Prediction](https://github.com/mathis-dumont/horse-racing-prediction):** (Core ML) An XGBoost pipeline with automated daily ETL, market analysis, and a betting strategy algorithm.
+*   **[Fraud Detection Research](https://mathis-dumont.github.io/documents/fraud-detection-report.pdf):** (Research) A comparison of supervised vs. unsupervised (autoencoder) methods for detecting fraud in highly imbalanced datasets.
 
 ---
 
