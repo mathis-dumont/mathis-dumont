@@ -1,6 +1,6 @@
 # Mathis Dumont
 
-AI Engineer with a dual background in Mechanical Engineering (Arts & Métiers) and Data Science (ENSAE Paris). My work runs from predictive ML models to agentic AI workflows.
+AI Engineer with a dual background in Mechanical Engineering (Arts & Métiers) and Data Science (ENSAE Paris).
 
 [**Full Portfolio & Projects**](https://mathis-dumont.github.io/) | [**LinkedIn**](https://www.linkedin.com/in/mathis-dumont/)
 
