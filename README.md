@@ -21,7 +21,7 @@ I'm not only on the technical side. Between 2023 and 2025 I ran client projects 
 
 *   **Finalist, Gradient 2026:** National coding competition by Prologin & Mistral AI.
 *   **2nd Prize, 12th Trinational Students' Congress of Natural Sciences & Technology Freiburg:** IoT smart beehive.
-*   **1st Junior Enterprise in France, 2024— Arts & Métiers Junior Enterprise**, where I was Head of Sales.
+*   **1st Junior Enterprise in France, 2024:** Arts & Métiers Junior Enterprise, where I was Head of Sales.
 
 ---
 
