@@ -4,23 +4,23 @@
 
 ---
 
-### About Me
+### About me
 
-I'm currently a Data Scientist intern at Mirakl, where I work on fine-tuning and aligning open-weight models (with DPO) to handle catalog onboarding at large scale every week. Before that, I built a multi-agent LLM pipeline to reverse-engineer 200k+ lines of legacy Fortran at ArcelorMittal.
+I'm a Data Scientist intern at Mirakl, where I fine-tune open-weight models and align them with DPO to automate catalog onboarding. Before that, I built a multi-agent LLM pipeline at ArcelorMittal to reverse-engineer 200k+ lines of legacy Fortran.
 
-I also have a strong commercial side, from 2023 to 2025, I led sales at a €250k/year Junior Enterprise, delivering projects for over 50 companies. 
+I also have a commercial background. From 2023 to 2025 I led sales at a Junior Enterprise turning over €250k a year, and we delivered projects for more than 50 companies.
 
-### Technical Stack
+### Technical stack
 
-*   **LLMs:** DPO, Fine-tuning, LLM-as-a-Judge, Multi-agent systems
+*   **LLMs:** DPO, fine-tuning, LLM-as-a-Judge, multi-agent systems
 *   **Data Engineering:** PySpark, Databricks, Delta Lake, SQL
 *   **Machine Learning:** PyTorch, Hugging Face, Scikit-learn
 *   **Infrastructure:** Docker, FastAPI, AWS (S3), CI/CD (GitHub Actions)
 
 ### Awards
 
-*   **Finalist, Gradient 2026:** National coding competition by Prologin & Mistral AI.
-*   **2nd Prize, 12th Trinational Students' Congress of Natural Sciences & Technology Freiburg:** IoT smart beehive.
+*   **Finalist, Gradient 2026:** national coding competition run by Prologin & Mistral AI.
+*   **2nd Prize, 12th Trinational Students' Congress of Natural Sciences & Technology, Freiburg:** IoT smart beehive.
 *   **1st Junior Enterprise in France, 2024:** Arts & Métiers Junior Enterprise, where I was Head of Sales.
 
 ---
